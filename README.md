@@ -19,14 +19,28 @@ I'm a passionate Frontend Developer with experience in building modern, scalable
 
 
   
-## 🌐 Socials:
+## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://mehedihasan.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://dev.to/yourhandle" target="_blank"><img src="https://img.shields.io/badge/DEV-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-  <a href="https://leetcode.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/your-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://facebook.com/your-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+  <a href="https://dev.to/your-username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=wordpress" />
+  </a>
 </p>
+
 
 # 💻 Tech Stack
 
