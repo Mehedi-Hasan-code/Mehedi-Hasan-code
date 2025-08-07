@@ -4,6 +4,11 @@
 <img src="https://i.imgur.com/9pEjMRl.png">
 </div>
 
+## 🙋‍♂️ About Me
+
+I'm a passionate Frontend Developer with experience in building modern, scalable web applications using React, Tailwind CSS, TypeScript, and the MERN stack. I enjoy turning complex problems into clean, user-friendly interfaces and continuously learning new tools and technologies.
+
+
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
 - 👨‍💻 All of my projects are available at [mehedihasan.dev](mehedihasan.dev)
