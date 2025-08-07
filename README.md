@@ -20,10 +20,13 @@ I'm a passionate Frontend Developer with experience in building modern, scalable
 
   
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/quazimehedi.hasan.52)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehedihasan.code)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/quazimehedihasanovi)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Greedy-Friendship786) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mehedihasan.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://dev.to/yourhandle" target="_blank"><img src="https://img.shields.io/badge/DEV-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+  <a href="https://leetcode.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
 
 # 💻 Tech Stack
 
