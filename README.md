@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<div align="center">
+<img src="https://i.imgur.com/9pEjMRl.png" width="400">
+</div>
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
