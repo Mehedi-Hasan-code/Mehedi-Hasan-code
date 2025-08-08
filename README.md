@@ -30,7 +30,23 @@ I'm a passionate Frontend Developer with experience in building modern, scalable
   <a href="mailto:contact@mehedihasan.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <a href="https://wa.me/8801980529797" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" />
+  </a>
+  <a href="https://mehedihasan.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=wordpress" />
+  </a>
+  <a href="https://codepen.io/MehediHasanDev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=codepen" />
+  </a>
+  <a href="https://codesandbox.io/u/MehediHasanDev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=codesandbox" />
+  </a>
+  <a href="https://www.reddit.com/user/Greedy-Friendship786" target="_blank">
+    <img src="https://skillicons.dev/icons?i=reddit" />
+  </a>
 </p>
+
 
 
 # 💻 Tech Stack
