@@ -33,12 +33,8 @@ I'm a passionate Frontend Developer with experience in building modern, scalable
   <a href="mailto:contact@mehedihasan.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <!-- Portfolio Website -->
-  <a href="https://mehedihasan.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
   <!-- CodePen -->
-  <a href="https://codepen.io/yourusername" target="_blank">
+  <a href="https://codepen.io/MehediHasanDev" target="_blank">
     <img src="https://skillicons.dev/icons?i=codepen" />
   </a>
 </p>
