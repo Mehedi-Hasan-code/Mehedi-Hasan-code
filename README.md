@@ -35,8 +35,6 @@ I'm a passionate Frontend Developer with experience in building modern, scalable
 
 # 💻 Tech Stack
 
-# 💻 Tech Stack
-
 ## 🧩 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,redux,bootstrap,tailwind,sass" />
