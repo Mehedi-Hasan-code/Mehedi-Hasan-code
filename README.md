@@ -21,23 +21,14 @@ I'm a passionate Frontend Developer with experience in building modern, scalable
   
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-username" target="_blank">
+  <a href="https://www.linkedin.com/in/mehedihasan-dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/your-username" target="_blank">
+  <a href="https://x.com/MehediHasaDev" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://facebook.com/your-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a>
-  <a href="https://dev.to/your-username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" />
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:contact@mehedihasan.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=wordpress" />
   </a>
 </p>
 
