@@ -96,17 +96,23 @@ I'm a passionate Frontend Developer with experience in building modern, scalable
 
 ```javascript
 const thai = {
-  pronouns: "he" | "him",
-  code: [Mern, Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+  pronouns: ["he", "him"],
+  code: [
+    "HTML", "CSS", "JavaScript", "TypeScript",
+    "React", "Next.js", "Vite", "Redux",
+    "Bootstrap", "Tailwind CSS", "Sass",
+    "Chakra UI", "React Router", "Node.js",
+    "Express", "MongoDB", "Firebase", "JWT"
+  ],
+  tools: [
+    "Figma", "Photoshop", "Adobe XD",
+    "Git", "GitHub", "npm",
+    "Vercel", "Netlify", "Cloudflare"
+  ],
+  architecture: ["Microservices", "Event-Driven", "Design System Pattern"],
+  challenge: "I am doing the #100DaysOfCode challenge focused on React and TypeScript"
+};
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
