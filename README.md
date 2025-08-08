@@ -21,31 +21,40 @@ I'm a passionate Frontend Developer with experience in building modern, scalable
   
 ## 🔗 Connect with Me
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mehedihasan-dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <!-- Twitter -->
   <a href="https://x.com/MehediHasaDev" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
+  <!-- Gmail -->
   <a href="mailto:contact@mehedihasan.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://wa.me/8801980529797" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" />
+  <!-- WhatsApp -->
+  <a href="https://wa.me/8801XXXXXXXXX" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+  <!-- Portfolio Website -->
   <a href="https://mehedihasan.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=wordpress" />
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="https://codepen.io/MehediHasanDev" target="_blank">
+  <!-- CodePen -->
+  <a href="https://codepen.io/yourusername" target="_blank">
     <img src="https://skillicons.dev/icons?i=codepen" />
   </a>
-  <a href="https://codesandbox.io/u/MehediHasanDev" target="_blank">
+  <!-- CodeSandbox -->
+  <a href="https://codesandbox.io/u/yourusername" target="_blank">
     <img src="https://skillicons.dev/icons?i=codesandbox" />
   </a>
-  <a href="https://www.reddit.com/user/Greedy-Friendship786" target="_blank">
-    <img src="https://skillicons.dev/icons?i=reddit" />
+  <!-- Reddit -->
+  <a href="https://www.reddit.com/user/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
 </p>
+
 
 
 
