@@ -9,13 +9,15 @@
 I'm a passionate Frontend Developer with experience in building modern, scalable web applications using React, Tailwind CSS, TypeScript, and the MERN stack. I enjoy turning complex problems into clean, user-friendly interfaces and continuously learning new tools and technologies.
 
 
-- 🌱 I’m currently learning **Next.js, TypeScript**
+- 🌱 I’m currently exploring  **Next.js, TypeScript**
 
 - 👨‍💻 All of my projects are available at [mehedihasan.dev](mehedihasan.dev)
 
 - 💬 Ask me about **React, Next.js and Gsap**
 
 - 📫 How to reach me **contact@mehedihasan.dev**
+- 
+- 👷‍♂️ I’m working on a medicine website**
 
 
   
