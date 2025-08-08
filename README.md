@@ -92,16 +92,21 @@ I'm a passionate Frontend Developer with experience in building modern, scalable
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="About Me GIF" /> A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const mehedi = {
+const thai = {
   pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "C#"],
-  tools: ["React", "Node.js", "MongoDB", "Express", "Tailwind", "Git"],
-  interests: ["Web development", "Open source", "Tech tutorials"],
-  challenge: "Currently doing #100DaysOfCode focused on Full Stack Projects"
-};
+  code: [Mern, Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
