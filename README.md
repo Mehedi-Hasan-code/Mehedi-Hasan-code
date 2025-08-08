@@ -33,10 +33,6 @@ I'm a passionate Frontend Developer with experience in building modern, scalable
   <a href="mailto:contact@mehedihasan.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <!-- WhatsApp -->
-  <a href="https://wa.me/8801XXXXXXXXX" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
   <!-- Portfolio Website -->
   <a href="https://mehedihasan.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
@@ -44,14 +40,6 @@ I'm a passionate Frontend Developer with experience in building modern, scalable
   <!-- CodePen -->
   <a href="https://codepen.io/yourusername" target="_blank">
     <img src="https://skillicons.dev/icons?i=codepen" />
-  </a>
-  <!-- CodeSandbox -->
-  <a href="https://codesandbox.io/u/yourusername" target="_blank">
-    <img src="https://skillicons.dev/icons?i=codesandbox" />
-  </a>
-  <!-- Reddit -->
-  <a href="https://www.reddit.com/user/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
   </a>
 </p>
 
