@@ -87,11 +87,6 @@ I'm a passionate Frontend Developer with experience in building modern, scalable
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mehedi-Hasan-code&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
