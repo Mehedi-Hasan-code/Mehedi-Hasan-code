@@ -48,7 +48,7 @@ I'm a passionate Frontend Developer with experience in building modern, scalable
 
 ## 🧩 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,redux,bootstrap,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind" />
   <br />
   <img src="https://skillicons.dev/icons?i=chakraui,reactrouter,figma" />
 </p>
@@ -94,8 +94,7 @@ const me = {
   pronouns: ["he", "him"],
   code: [
     "HTML", "CSS", "JavaScript", "TypeScript",
-    "React", "Next.js", "Vite", "Redux",
-    "Bootstrap", "Tailwind CSS", "Sass",
+    "React", "Next.js", "Vite", "Tailwind CSS",
     "Chakra UI", "React Router", "Node.js",
     "Express", "MongoDB", "Firebase", "JWT"
   ],
