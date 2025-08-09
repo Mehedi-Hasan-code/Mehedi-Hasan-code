@@ -95,7 +95,7 @@ const me = {
   code: [
     "HTML", "CSS", "JavaScript", "TypeScript",
     "React", "Next.js", "Vite", "Tailwind CSS",
-    "Chakra UI", "React Router", "Node.js",
+    "Chakra UI", "Daisy UI", "React Router", "Node.js",
     "Express", "MongoDB", "Firebase", "JWT"
   ],
   tools: [
