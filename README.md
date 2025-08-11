@@ -50,7 +50,7 @@ I'm a passionate Frontend Developer with experience in building modern, scalable
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind" />
   <br />
-  <img src="https://skillicons.dev/icons?i=chakraui,reactrouter,figma" />
+  <img src="https://skillicons.dev/icons?i=chakraui,reactrouter" />
 </p>
 
 ## 🛠️ Backend
